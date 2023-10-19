@@ -13,7 +13,7 @@
 3) <b>Personalized Financial Advice:</b> <br>Perhaps the most groundbreaking feature of ETS is its ability to offer tailored financial advice. Using the insights gained from data analysis, ETS generates personalized recommendations to help users optimize their financial decisions. This advice encompasses everything from budgeting and savings strategies to investment opportunities and debt management.
 
 4) <b>Goal Setting:</b> <br>ETS empowers users to set and track financial goals, whether it's saving for a vacation, paying off student loans, or planning for retirement. The system monitors progress toward these goals and suggests adjustments to stay on track.
-
+ 
 5) <b>Education and Resources:</b><br> ETS doesn't just offer advice; it also provides educational resources to help users improve their financial literacy. From articles and tutorials to webinars and quizzes, the platform equips individuals with the knowledge they need to make informed decisions.
 
 6) <b>Security and Privacy:</b><br> ETS prioritizes the security and privacy of users' financial data, employing robust encryption and authentication measures to safeguard sensitive information.
